@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Arden Stores",
+      "hasCanvas": false,
+      "bodyTextLen": 437,
+      "bodyTextHash": "d85c97f544f668fe790c1116e85540667eeef1fdbaf254878fa0048c15f4f059",
+      "bodyTextPrefix": "Arden Stores RIDGE CAMPUS The campus ledger, for staff only. Sig",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Arden Stores",
+      "hasCanvas": false,
+      "bodyTextLen": 224,
+      "bodyTextHash": "ca276cb3b0639e1b8d94c5e4ed135234632761af73d5faacc1af6f43c461a52e",
+      "bodyTextPrefix": "Arden Stores STAFF SIGN-IN Sign in to the ledger School Gmail, G",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
